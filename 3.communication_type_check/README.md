@@ -1,5 +1,5 @@
 ## Introduction
-Notion APIのテスト用に作成したリポジトリ
+ドキュメントにあったコミュニケーション性別性についてカテゴライズする診断のAlgorithm
 
 ## Env
 
